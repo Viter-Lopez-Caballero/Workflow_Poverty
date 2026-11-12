@@ -245,7 +245,7 @@ Si utiliza este código o estos resultados, cite el artículo:
 **Formato APA:**
 
 ```
-Morales-Morales, L., López-Caballero, V., Hernández-Solano, A., Álvarez-González M.B.,  & Astorga-Zaragoza C.M. (2027). Detectar la
+Morales-Morales, L., López-Caballero, V., Hernández-Solano, A., Álvarez-González M.B., & Astorga-Zaragoza C.M. (2027). Detectar la
 pobreza sin medir el ingreso: aprendizaje automático y redes neuronales aplicados a la
 ENIGH 2016–2020. International Journal of Combinatorial Optimization Problems and
 Informatics, [volumen]([número]), [páginas]. [DOI]
