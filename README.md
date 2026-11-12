@@ -2,8 +2,8 @@
 
 ### Aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020
 
-**Autores:** Lucía Morales-Morales, Vitervo López-Caballero\* y Alan Hernández-Solano  
-\*Autor de correspondencia
+**Autores:** Lucía Morales-Morales, Vitervo López-Caballero\* ,Alan Hernández-Solano, Martha Betsabé Alvarez-González and Carlos Manuel Astorga-Zaragoza
+\*Vitervo López-Caballero
 
 Este repositorio contiene los datos, el diccionario de datos y los cuadernos de Google Colab necesarios para reproducir los resultados del artículo *«Detectar la pobreza sin medir el ingreso: aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020»*, preparado para el *International Journal of Combinatorial Optimization Problems and Informatics* (IJCOPI).
 
@@ -254,7 +254,7 @@ Informatics, [volumen]([número]), [páginas]. [DOI]
 
 ```bibtex
 @article{MoralesMorales2027,
-  author  = {Morales-Morales, Luc{\'i}a and L{\'o}pez-Caballero, Vitervo and Hern{\'a}ndez-Solano, Alan},
+  author  = {Morales-Morales, Luc{\'i}a and L{\'o}pez-Caballero, Vitervo, Hern{\'a}ndez-Solano, Alan, {\'A}lvarez-Gonz{\'a}lez Martha Betsab{\'e} and Carlos Manuel Astorga Zaragoza},
   title   = {Detectar la pobreza sin medir el ingreso: aprendizaje autom{\'a}tico y redes neuronales aplicados a la {ENIGH} 2016--2020},
   journal = {International Journal of Combinatorial Optimization Problems and Informatics},
   year    = {2027},
@@ -281,5 +281,7 @@ Informatics, [volumen]([número]), [páginas]. [DOI]
 | Lucía Morales-Morales | Autora |
 | Vitervo López-Caballero | Autor de correspondencia |
 | Alan Hernández-Solano | Autor |
+| Martha Betsabé Alvarez González | Autor |
+| Carlos Manuel Astorga Zaragoza | Autor |
 
-**Correspondencia:** Vitervo López-Caballero — [correo electrónico] — [institución]
+**Correspondencia:** Vitervo López-Caballero — vitervo.lc@cenidet.tecnm.mx — CENIDET
