@@ -2,6 +2,9 @@
 
 ### Aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020
 
+**Autores:** Lucía Morales-Morales, Vitervo López-Caballero\* y Alan Hernández-Solano  
+\*Autor de correspondencia
+
 Este repositorio contiene los datos, el diccionario de datos y los cuadernos de Google Colab necesarios para reproducir los resultados del artículo *«Detectar la pobreza sin medir el ingreso: aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020»*, preparado para el *International Journal of Combinatorial Optimization Problems and Informatics* (IJCOPI).
 
 **Pregunta de investigación:** ¿es posible identificar a los hogares mexicanos en pobreza por ingresos **sin observar su ingreso**, solo a partir de sus características sociodemográficas, de seguridad alimentaria, de vivienda y de equipamiento?
@@ -19,6 +22,7 @@ Este repositorio contiene los datos, el diccionario de datos y los cuadernos de 
 - [Notas sobre la reproducibilidad](#notas-sobre-la-reproducibilidad)
 - [Cómo citar](#cómo-citar)
 - [Licencia y uso de los datos](#licencia-y-uso-de-los-datos)
+- [Autores y contacto](#autores-y-contacto)
 
 ---
 
@@ -237,10 +241,28 @@ Hardware: entorno Linux con un núcleo de CPU y 3 GB de RAM (no se requiere GPU)
 
 Si utiliza este código o estos resultados, cite el artículo:
 
+**Formato APA:**
+
 ```
-[Autores]. ([Año]). Detectar la pobreza sin medir el ingreso: aprendizaje automático y
-redes neuronales aplicados a la ENIGH 2016–2020. International Journal of Combinatorial
-Optimization Problems and Informatics, [volumen]([número]), [páginas]. [DOI]
+Morales-Morales, L., López-Caballero, V., & Hernández-Solano, A. (2027). Detectar la
+pobreza sin medir el ingreso: aprendizaje automático y redes neuronales aplicados a la
+ENIGH 2016–2020. International Journal of Combinatorial Optimization Problems and
+Informatics, [volumen]([número]), [páginas]. [DOI]
+```
+
+**BibTeX:**
+
+```bibtex
+@article{MoralesMorales2027,
+  author  = {Morales-Morales, Luc{\'i}a and L{\'o}pez-Caballero, Vitervo and Hern{\'a}ndez-Solano, Alan},
+  title   = {Detectar la pobreza sin medir el ingreso: aprendizaje autom{\'a}tico y redes neuronales aplicados a la {ENIGH} 2016--2020},
+  journal = {International Journal of Combinatorial Optimization Problems and Informatics},
+  year    = {2027},
+  volume  = {[volumen]},
+  number  = {[número]},
+  pages   = {[páginas]},
+  doi     = {[DOI]}
+}
 ```
 
 ---
@@ -252,6 +274,12 @@ Optimization Problems and Informatics, [volumen]([número]), [páginas]. [DOI]
 
 ---
 
-## Contacto
+## Autores y contacto
 
-[Nombre del autor de correspondencia] — [correo electrónico] — [institución]
+| Autor | Rol |
+|---|---|
+| Lucía Morales-Morales | Autora |
+| Vitervo López-Caballero | Autor de correspondencia |
+| Alan Hernández-Solano | Autor |
+
+**Correspondencia:** Vitervo López-Caballero — [correo electrónico] — [institución]
