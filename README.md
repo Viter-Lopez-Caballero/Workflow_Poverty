@@ -3,7 +3,7 @@
 ### Aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020
 
 **Autores:** Lucía Morales-Morales, Vitervo López-Caballero\* ,Alan Hernández-Solano, Martha Betsabé Alvarez-González and Carlos Manuel Astorga-Zaragoza
-\*Vitervo López-Caballero
+\Autor de Correspondencia: *Vitervo López-Caballero
 
 Este repositorio contiene los datos, el diccionario de datos y los cuadernos de Google Colab necesarios para reproducir los resultados del artículo *«Detectar la pobreza sin medir el ingreso: aprendizaje automático y redes neuronales aplicados a la ENIGH 2016–2020»*, preparado para el *International Journal of Combinatorial Optimization Problems and Informatics* (IJCOPI).
 
