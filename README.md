@@ -35,7 +35,7 @@ Este repositorio contiene los datos, el diccionario de datos y los cuadernos de 
 │   ├── base2018.xlsx
 │   └── base2020.xlsx
 ├── 2. Diccionario de datos/
-│   └── (descripción de cada atributo de las bases)
+│   └── En el archivo se describe cada atributo de la base de datos
 ├── 3. Cuadernos de trabajo/
 │   ├── Analisis_pobreza_ML_mejorado.ipynb
 │   └── Analisis_pobreza_ML_v2_Optuna.ipynb
